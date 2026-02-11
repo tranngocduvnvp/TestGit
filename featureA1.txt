@@ -1,0 +1,2 @@
+day la file cua nhanh featureA1
+file feature A bi sua sau khi featureA1 duoc commit
